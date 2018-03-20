@@ -1,4 +1,4 @@
-,calendar_date,precipitation,deepest_snowfall,total_snowfall
+Unnamed: 0,calendar_date,precipitation,deepest_snowfall,total_snowfall
 0,2016-01-01,2.0,61,8
 1,2016-01-02,6.0,51,0
 2,2016-01-03,2.5,37,0

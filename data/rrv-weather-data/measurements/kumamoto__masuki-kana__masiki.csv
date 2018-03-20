@@ -1,4 +1,4 @@
-,calendar_date,avg_temperature,high_temperature,low_temperature,precipitation,avg_wind_speed
+Unnamed: 0,calendar_date,avg_temperature,high_temperature,low_temperature,precipitation,avg_wind_speed
 0,2016-01-01,4.5,10.8,-3.3,0.0,1.6
 1,2016-01-02,10.2,15.0,3.9,0.0,1.6
 2,2016-01-03,11.3,14.9,7.1,0.0,1.3

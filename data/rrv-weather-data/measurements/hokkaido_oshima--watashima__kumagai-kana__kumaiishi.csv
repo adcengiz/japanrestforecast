@@ -1,4 +1,4 @@
-,calendar_date,avg_temperature,high_temperature,low_temperature,precipitation,hours_sunlight,deepest_snowfall,total_snowfall,avg_wind_speed
+Unnamed: 0,calendar_date,avg_temperature,high_temperature,low_temperature,precipitation,hours_sunlight,deepest_snowfall,total_snowfall,avg_wind_speed
 0,2016-01-01,0.5,3.7,-1.2,0.0,0.0,3,0,2.4
 1,2016-01-02,4.5,5.5,2.2,9.5,0.0,2,0,4.4
 2,2016-01-03,1.0,2.9,-0.4,0.0,1.2,0,0,3.2
