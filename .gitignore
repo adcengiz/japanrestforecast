@@ -1,2 +1,6 @@
 
 data/hpg_reserve.csv
+HW4_adc563.ipynb
+training_valid.csv
+training_wo_valid.csv
+merged_rest_data_weather_measurements.csv
